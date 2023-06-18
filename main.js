@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/o2d-mYS9v/modeljson
